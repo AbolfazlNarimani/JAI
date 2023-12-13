@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">J-AI</string>
+    <string name="text_to_speech">Text to Speech</string>
+    <string name="enter_some_text">Enter some text!</string>
+    <string name="convert_text_to_speech">Convert text to Speech</string>
+    <string name="speak_up">SPEAK UP !</string>
+    <string name="speech_to_text">Speech To Text !</string>
+    <string name="this_field_will_will_automatically">this field will fill automatically</string>
+    <string name="write_it_down">Write IT down</string>
+    <string name="if_you_want_tts_write_it_down_and_use_speakup_button_and_if_you_wish_to_use_stt_use_write_it_down_button">if you want TTS write it down and use SPEAKUP button and if you wish to use STT use write IT down button</string>
 </resources>
